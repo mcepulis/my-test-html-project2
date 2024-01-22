@@ -8,22 +8,21 @@ figure {
 }
 
 img {
-    box-sizing: content-box;
-    width: 300px;
+    width: 49%;
     height: 250px;
-
 }
 
 article {
     width: 45%;
     float: right;
-    margin-top: 7%;
 }
 
+p {
 
+}
  button {
     display: block;
-    padding: 30px;
+    padding: 7%;
     width: 50%;
     text-align: center;
  }
