@@ -1,0 +1,33 @@
+main {
+    display: inline-block;
+}
+
+figure {
+    width: 48%;
+    float: left;
+}
+
+img {
+    box-sizing: content-box;
+    width: 300px;
+    height: 250px;
+
+}
+
+article {
+    width: 45%;
+    float: right;
+    margin-top: 7%;
+}
+
+
+ button {
+    display: block;
+    padding: 30px;
+    width: 50%;
+    text-align: center;
+ }
+
+footer {
+    margin-top: 5%;
+}
